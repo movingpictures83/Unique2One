@@ -1,0 +1,2 @@
+Prefix plugins/Unique2One/example/
+Plugin Unique2One inputfile parameters.txt outputfile output.txt
